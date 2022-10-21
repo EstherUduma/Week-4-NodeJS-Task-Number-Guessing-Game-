@@ -9,6 +9,10 @@ This is one of the tasks given to me for the Zuri Training, in Week 4 for NodeJS
 
 - <b>JavaScript</b> 
 
+<h2>Replit Link</h2>
+
+https://replit.com/@ESTHER-ANNANN/Week-4-NodeJS-Task-Number-Guessing-Game?v=1 
+
 <h2>Environments Used </h2>
 
 - <b>Replit</b>
